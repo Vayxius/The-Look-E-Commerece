@@ -1,6 +1,6 @@
 # The Look E-Commerce Dashboard
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://ivan-yapputra-yappi-013-p0m1.herokuapp.com/)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://milestone-one.herokuapp.com/)
 
 # Problems
 
